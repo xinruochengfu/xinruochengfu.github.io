@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #e4b065;
+  background: #1d62f2;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2295,4 +2295,10 @@ body {
   background-repeat: repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
+}
+* {
+  cursor: url("http://om8u46rmb.bkt.clouddn.com/sword2.ico"), auto !important;
+}
+:active {
+  cursor: url("http://om8u46rmb.bkt.clouddn.com/sword1.ico"), auto !important;
 }
