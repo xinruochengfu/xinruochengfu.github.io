@@ -2674,8 +2674,8 @@ blockquote footer cite:before {
 #aside-content .aside-list > .aside-list-item.no-cover {
   min-height: 4.4em;
 }
-#aside-content .card-archives ul.card-archive-list,
-#aside-content .card-categories ul.card-category-list {
+#aside-content .card-文章 ul.card-archive-list,
+#aside-content .card-分类 ul.card-分类-list {
   margin: 0;
   padding: 0;
   list-style: none;
