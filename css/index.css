@@ -182,8 +182,8 @@ template {
 .flink#article-container .flink-list > .flink-list-item a .flink-item-name,
 .flink#article-container .flink-list > .flink-list-item a .flink-item-desc,
 #aside-content .card-info .card-info-data > .card-info-data-item a .headline,
-#aside-content .card-archives ul.card-archive-list > .card-archive-list-item a span,
-#aside-content .card-categories ul.card-category-list > .card-category-list-item a span,
+#aside-content .card-文章 ul.card-archive-list > .card-archive-list-item a span,
+#aside-content .card-分类 ul.card-category-list > .card-category-list-item a span,
 #pagination .prev_info,
 #pagination .next_info,
 #sidebar #sidebar-menus .site-data .data-item .data-item-link > a > div,
@@ -2680,8 +2680,8 @@ blockquote footer cite:before {
   padding: 0;
   list-style: none;
 }
-#aside-content .card-archives ul.card-archive-list > .card-archive-list-item a,
-#aside-content .card-categories ul.card-category-list > .card-category-list-item a {
+#aside-content .card-文章 ul.card-archive-list > .card-archive-list-item a,
+#aside-content .card-分类 ul.card-category-list > .card-category-list-item a {
   display: inline-block;
   padding: 0.15rem 0.5rem;
   width: 100%;
@@ -2692,27 +2692,27 @@ blockquote footer cite:before {
   -ms-transition: all 0.4s;
   transition: all 0.4s;
 }
-#aside-content .card-archives ul.card-archive-list > .card-archive-list-item a:hover,
-#aside-content .card-categories ul.card-category-list > .card-category-list-item a:hover {
+#aside-content .card-文章 ul.card-archive-list > .card-archive-list-item a:hover,
+#aside-content .card-分类 ul.card-category-list > .card-category-list-item a:hover {
   padding: 0.15rem 0.85rem;
   background-color: var(--text-bg-hover);
 }
-#aside-content .card-archives ul.card-archive-list > .card-archive-list-item a span,
-#aside-content .card-categories ul.card-category-list > .card-category-list-item a span {
+#aside-content .card-文章 ul.card-archive-list > .card-archive-list-item a span,
+#aside-content .card-分类 ul.card-category-list > .card-category-list-item a span {
   display: inline-block;
   vertical-align: bottom;
 }
-#aside-content .card-archives ul.card-archive-list > .card-archive-list-item a span:first-child,
-#aside-content .card-categories ul.card-category-list > .card-category-list-item a span:first-child {
+#aside-content .card-文章 ul.card-archive-list > .card-archive-list-item a span:first-child,
+#aside-content .card-分类 ul.card-category-list > .card-category-list-item a span:first-child {
   width: 80%;
 }
-#aside-content .card-archives ul.card-archive-list > .card-archive-list-item a span:last-child,
-#aside-content .card-categories ul.card-category-list > .card-category-list-item a span:last-child {
+#aside-content .card-文章 ul.card-archive-list > .card-archive-list-item a span:last-child,
+#aside-content .card-分类 ul.card-category-list > .card-category-list-item a span:last-child {
   width: 20%;
   text-align: right;
 }
-#aside-content .card-archives ul.card-archive-list > .card-archive-list-item.more span,
-#aside-content .card-categories ul.card-category-list > .card-category-list-item.more span {
+#aside-content .card-文章 ul.card-archive-list > .card-archive-list-item.more span,
+#aside-content .card-分类 ul.card-category-list > .card-category-list-item.more span {
   padding-right: 0.3rem;
   width: auto !important;
   -webkit-transition: 0.5s;
@@ -2721,8 +2721,8 @@ blockquote footer cite:before {
   -ms-transition: 0.5s;
   transition: 0.5s;
 }
-#aside-content .card-archives ul.card-archive-list > .card-archive-list-item.more:hover span,
-#aside-content .card-categories ul.card-category-list > .card-category-list-item.more:hover span {
+#aside-content .card-文章 ul.card-archive-list > .card-archive-list-item.more:hover span,
+#aside-content .card-分类 ul.card-category-list > .card-category-list-item.more:hover span {
   padding-right: 0.6rem;
 }
 #aside-content .card-categories .card-category-list.child {
