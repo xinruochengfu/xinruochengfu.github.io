@@ -5458,11 +5458,11 @@ blockquote.pullquote.right {
   color: var(--font-color);
 }
 body {
-  background: rgba(255,255,255,0.5);
-  cursor: url("https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/Jkll8I.png"), auto;
-  margin: 0;
+  cursor: url("https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur"),;
+default
 }
-a:hover {
-  text-decoration: none;
-  cursor: url("https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png"), auto;
+a,
+img {
+  cursor: url("https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur"),;
+default
 }
