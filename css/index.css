@@ -5458,9 +5458,11 @@ blockquote.pullquote.right {
   color: var(--font-color);
 }
 body {
-  cursor: url("https://cdn.jsdelivr.net/gh/TRHX/CDN-for-itrhx.com@1/images/mouse.cur"), default;
+  background: rgba(255,255,255,0.5);
+  cursor: url("https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/Jkll8I.png"), auto;
+  margin: 0;
 }
-/**链接指针样式**/
 a:hover {
-  cursor: url("https://cdn.jsdelivr.net/gh/TRHX/CDN-for-itrhx.com@1/images/mouse.cur"), pointer;
+  text-decoration: none;
+  cursor: url("https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png"), auto;
 }
