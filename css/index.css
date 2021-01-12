@@ -5458,9 +5458,9 @@ blockquote.pullquote.right {
   color: var(--font-color);
 }
 body {
-  cursor: url("https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur"), default;
+  cursor: url("https://cdn.jsdelivr.net/gh/TRHX/CDN-for-itrhx.com@1/images/mouse.cur"), default;
 }
 /**链接指针样式**/
 a:hover {
-  cursor: url("https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur"), pointer;
+  cursor: url("https://cdn.jsdelivr.net/gh/TRHX/CDN-for-itrhx.com@1/images/mouse.cur"), pointer;
 }
